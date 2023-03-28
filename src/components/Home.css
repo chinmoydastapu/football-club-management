@@ -1,0 +1,10 @@
+.header-banner {
+    background:
+        /* top, transparent black, faked with gradient */
+        linear-gradient(rgba(0, 0, 0, 0.7),
+            rgba(0, 0, 0, 0.7)),
+        /* bottom, image */
+        url('https://i.pinimg.com/originals/f7/62/42/f76242e766c736dcd43028fad4477ed6.gif');
+        background-repeat: no-repeat;
+        background-size: cover;
+}
